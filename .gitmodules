@@ -1,0 +1,3 @@
+[submodule "machine_failure_prediction"]
+	path = machine_failure_prediction
+	url = https://github.com/KaustubhaRam/machine_failure_prediction.git
